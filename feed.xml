@@ -1,22 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-	<title>La Biblioteca de Liliput</title>
-	<link>https://labibliotecadeliliput.wordpress.com</link>
-	<description>Reflexiones sobre todo un poco...</description>
-  <item>
-  <title>¿Cómo volver a estudiar cuando ya has perdido el hábito?</title>
-		<link>https://labibliotecadeliliput.wordpress.com/2019/04/09/como-volver-a-estudiar-cuando-ya-has-perdido-el-habito/</link>
-				<pubDate>Tue, 09 Apr 2019 11:51:49 +0000</pubDate>
-				<category>Estudio</category>
-				<description>Volver a estudiar después de mucho tiempo puede ser un desafío. Aquí te contamos 10 claves para retomar el estudio después de mucho tiempo</description>
-  </item>
-	  <item>
-  <title>Multitasking:un mal vicio</title>
-		<link>https://labibliotecadeliliput.wordpress.com/2016/10/05/multitasking-un-mal-vicio/</link>
-				<pubDate>October 15 2016</pubDate>
-				<category>Organización</category>
-				<description>Cuando te acostumbras a no centrarte en una sola cosa, la mente es menos productiva. O quizás no...</description>
-  </item>  
+    <title>La Biblioteca de Liliput</title>
+    <link>https://labibliotecadeliliput.wordpress.com</link>
+    <description>Reflexiones sobre todo un poco...</description>
+    <item>
+      <title>¿Cómo volver a estudiar cuando ya has perdido el hábito?</title>
+      <link>https://labibliotecadeliliput.wordpress.com/2019/04/09/como-volver-a-estudiar-cuando-ya-has-perdido-el-habito/</link>
+      <category>Estudio</category>
+      <description>Volver a estudiar después de mucho tiempo puede ser un desafío. Aquí te contamos 10 claves para retomar el estudio después de mucho tiempo</description>
+    </item>
+    <item>
+      <title>Multitasking: un mal vicio</title>
+      <link>https://labibliotecadeliliput.wordpress.com/2016/10/05/multitasking-un-ma</link>
+      <category>Estudio</category>
+      <description>Aprende a enfocarte en una tarea a la vez para ser más productivo</description>
+    </item>
+    <item>
+      <title>Ser imprescindible es ser el mejor producto del mercado</title>
+      <link>https://labibliotecadeliliput.wordpress.com/2016/10/05/ser-imprescinble-es-ser-el-mejor-producto-del-mercado/</link>
+      <category>Estudio</category>
+      <description>Demuestra tu valor añadido en el mercado laboral</description>
+    </item>
+    <item>
+      <title>La Casa de las Miniaturas - Jesse Burton</title>
+      <link>https://labibliotecadeliliput.wordpress.com/2016/08/27/la-casa-de-las-miniaturas-jesse-burton/</link>
+      <category>Libros</category>
+      <description>Reseña y opinión de este libro ambientado en la Holanda decimonónica</description>
+    </item>
+    <item>
+      <title>Las normas de César Millán</title>
+      <link>https://labibliotecadeliliput.wordpress.com/2016/07/29/las-normas-de-cesar-millan/</link>
+      <category>Libros</category>
+      <description>Reseña y opinión de este libro orientado a los dueños de todo tipo de perros</description>
+    </item>
+    <item>
+      <title>Shantaram - Gregory David Roberts</title>
+      <link>https://labibliotecadeliliput.wordpress.com/2016/07/29/las-normas-de-cesar-millan/</link>
+      <category>Libros</category>
+      <description>Vive una apasionante aventura en la India de los años 60</description>
+    </item>
   </channel>
 </rss>
