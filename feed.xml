@@ -2,17 +2,14 @@
 <rss version="2.0">
   <channel>
 	<title>La Biblioteca de Liliput</title>
-	<atom:link href="https://labibliotecadeliliput.wordpress.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://labibliotecadeliliput.wordpress.com</link>
 	<description>Reflexiones sobre todo un poco...</description>
-	<language>es-ES</language>
-	<cloud domain='labibliotecadeliliput.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
   <item>
   <title>¿Cómo volver a estudiar cuando ya has perdido el hábito?</title>
 		<link>https://labibliotecadeliliput.wordpress.com/2019/04/09/como-volver-a-estudiar-cuando-ya-has-perdido-el-habito/</link>
 				<pubDate>Tue, 09 Apr 2019 11:51:49 +0000</pubDate>
-				<category><![CDATA[Estudio]]></category>
-				<description><![CDATA[En este artículo analizamos cómo volver a adoptar hábito de estudio tras un tiempo sin haber tocado un libro"> <div class="link-more"><a href="https://labibliotecadeliliput.wordpress.com/2019/04/09/como-volver-a-estudiar-cuando-ya-has-perdido-el-habito/">Leer Más</a></div>]]></description>
-      </item>
-    </rss>
-    
+				<category>Estudio</category>
+				<description>Volver a estudiar</description>
+  </item>
+  </channel>
+</rss>
